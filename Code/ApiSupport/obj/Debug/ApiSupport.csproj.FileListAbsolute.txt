@@ -1,0 +1,9 @@
+D:\Research\AuthZDemo\AuthZ server\ApiSupport\bin\Debug\ApiSupport.dll
+D:\Research\AuthZDemo\AuthZ server\ApiSupport\bin\Debug\ApiSupport.pdb
+D:\Research\AuthZDemo\AuthZ server\ApiSupport\obj\Debug\ApiSupport.csprojResolveAssemblyReference.cache
+D:\Research\AuthZDemo\AuthZ server\ApiSupport\obj\Debug\ApiSupport.dll
+D:\Research\AuthZDemo\AuthZ server\ApiSupport\obj\Debug\ApiSupport.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\bin\Debug\ApiSupport.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\bin\Debug\ApiSupport.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\obj\Debug\ApiSupport.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\obj\Debug\ApiSupport.pdb

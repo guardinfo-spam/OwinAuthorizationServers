@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>http://eidand.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>C# Owin AuthorizationServer</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="5.2.3.0"/>      
+      <dependency id="Microsoft.Owin.Cors" version="3.0.1.0" />
+      <dependency id="System.IdentityModel.Tokens.Jwt" version="4.0.2.202250711" />
+      <dependency id="Microsoft.AspNet.WebApi.Owin" version="5.2.3.0" />
+      <dependency id="Microsoft.Owin.Host.SystemWeb" version="3.0.1.0" />
+      <dependency id="Microsoft.Owin.Security.OAuth" version="3.0.1.0" />
+      <dependency id="Thinktecture.IdentityModel.Core" version="1.4.0.0" />
+      <dependency id="Dapper" version="1.38.0.0"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Web.config.install.xdt" target="Content\Web.config.install.xdt"/>
+    <file src="Web.config" target="Content\Web.config"/>
+    <file src="bin\*.pdb" target="lib\net45" />
+    <file src="bin\ApiSupport.dll" target="lib\net45" />
+    <file src="bin\AuthZ.DataLayer.dll" target="lib\net45" />
+  </files>
+</package>

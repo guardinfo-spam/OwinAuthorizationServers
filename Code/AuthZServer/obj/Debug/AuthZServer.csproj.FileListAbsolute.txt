@@ -1,0 +1,74 @@
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\obj\Debug\AuthZServer.csprojResolveAssemblyReference.cache
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\AuthZServer.dll.config
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\AuthZServer.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\AuthZServer.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\ApiSupport.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\AuthZ.DataLayer.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Cors.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Security.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Newtonsoft.Json.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Owin.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Net.Http.Formatting.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Web.Cors.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Web.Http.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Web.Http.Owin.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Thinktecture.IdentityModel.Core.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Dapper.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\ApiSupport.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\AuthZ.DataLayer.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Cors.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Security.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Newtonsoft.Json.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Net.Http.Formatting.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Web.Http.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\System.Web.Http.Owin.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Thinktecture.IdentityModel.Core.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Dapper.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\bin\Dapper.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\obj\Debug\AuthZServer.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZServer\obj\Debug\AuthZServer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\AuthZServer.dll.config
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\AuthZServer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\AuthZServer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\ApiSupport.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\AuthZ.DataLayer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Cors.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Security.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Newtonsoft.Json.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Net.Http.Formatting.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Web.Cors.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Web.Http.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Web.Http.Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Thinktecture.IdentityModel.Core.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Dapper.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\ApiSupport.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\AuthZ.DataLayer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Cors.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Security.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Newtonsoft.Json.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Net.Http.Formatting.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Web.Http.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\System.Web.Http.Owin.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Thinktecture.IdentityModel.Core.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Dapper.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\bin\Dapper.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\obj\Debug\AuthZServer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\obj\Debug\AuthZServer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZServer\obj\Debug\AuthZServer.csprojResolveAssemblyReference.cache

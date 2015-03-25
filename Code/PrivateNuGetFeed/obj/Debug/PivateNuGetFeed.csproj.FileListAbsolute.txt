@@ -1,0 +1,16 @@
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\PivateNuGetFeed.dll.config
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\PivateNuGetFeed.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\PivateNuGetFeed.pdb
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Elmah.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Microsoft.Web.Infrastructure.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Microsoft.Web.XmlTransform.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Ninject.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\NuGet.Core.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\NuGet.Server.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\RouteMagic.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\WebActivatorEx.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Ninject.pdb
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\bin\Ninject.xml
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\obj\Debug\PivateNuGetFeed.csprojResolveAssemblyReference.cache
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\obj\Debug\PivateNuGetFeed.dll
+D:\Research\AuthZDemo\AuthZ server\PivateNuGetFeed\obj\Debug\PivateNuGetFeed.pdb

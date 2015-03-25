@@ -1,0 +1,74 @@
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\ResZServer.dll.config
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\ResZServer.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\ResZServer.pdb
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\ApiSupport.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\AuthZ.DataLayer.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Cors.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Newtonsoft.Json.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Owin.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Net.Http.Formatting.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Web.Cors.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Web.Http.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Web.Http.Owin.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Dapper.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\ApiSupport.pdb
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\AuthZ.DataLayer.pdb
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Cors.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Newtonsoft.Json.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Net.Http.Formatting.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Web.Http.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\System.Web.Http.Owin.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Dapper.pdb
+D:\Research\AuthZDemo\AuthZ server\ResZServer\bin\Dapper.xml
+D:\Research\AuthZDemo\AuthZ server\ResZServer\obj\Debug\ResZServer.csprojResolveAssemblyReference.cache
+D:\Research\AuthZDemo\AuthZ server\ResZServer\obj\Debug\ResZServer.dll
+D:\Research\AuthZDemo\AuthZ server\ResZServer\obj\Debug\ResZServer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\ResZServer.dll.config
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\ResZServer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\ResZServer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\ApiSupport.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\AuthZ.DataLayer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Cors.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Newtonsoft.Json.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Net.Http.Formatting.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Web.Cors.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Web.Http.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Web.Http.Owin.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Dapper.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\ApiSupport.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\AuthZ.DataLayer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Cors.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Newtonsoft.Json.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Net.Http.Formatting.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Web.Http.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\System.Web.Http.Owin.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Dapper.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\bin\Dapper.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\obj\Debug\ResZServer.csprojResolveAssemblyReference.cache
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\obj\Debug\ResZServer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ResZServer\obj\Debug\ResZServer.pdb

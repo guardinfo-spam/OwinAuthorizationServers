@@ -1,0 +1,15 @@
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\bin\Debug\AuthZ.DataLayer.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\bin\Debug\AuthZ.DataLayer.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\bin\Debug\Dapper.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\bin\Debug\Dapper.pdb
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\bin\Debug\Dapper.xml
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\obj\Debug\AuthZ.DataLayer.csprojResolveAssemblyReference.cache
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\obj\Debug\AuthZ.DataLayer.dll
+D:\Research\AuthZDemo\AuthZ server\AuthZ.DataLayer\obj\Debug\AuthZ.DataLayer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\bin\Debug\AuthZ.DataLayer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\bin\Debug\AuthZ.DataLayer.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\bin\Debug\Dapper.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\bin\Debug\Dapper.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\bin\Debug\Dapper.xml
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\obj\Debug\AuthZ.DataLayer.dll
+D:\Research\OwinAuthorizationServersDemo\Code\AuthZ.DataLayer\obj\Debug\AuthZ.DataLayer.pdb
