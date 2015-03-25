@@ -10,3 +10,5 @@ CREATE TABLE [dbo].[Audience](
 ) ON [PRIMARY]
 
 GO
+
+INSERT INTO Audience( ClientID, Name, Secret, Issuer ) VALUES ('bc852fdb311d4adb9d22dfa8226b391a','DemoAudience','MzA1MDI4MThlZjUxNDVmNTgzNDM2YWI4MzQ4Nzg3Njg=','http://authz.com')
