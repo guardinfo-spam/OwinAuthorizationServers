@@ -44,6 +44,7 @@
     <Compile Include="ConfigurationHelper.cs" />
     <Compile Include="ExtensionMethods.cs" />
     <Compile Include="Models\SimpleModel.cs" />
+    <Compile Include="Models\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

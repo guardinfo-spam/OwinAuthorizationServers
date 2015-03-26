@@ -7,3 +7,4 @@ D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\bin\Debug\ApiSupport.dl
 D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\bin\Debug\ApiSupport.pdb
 D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\obj\Debug\ApiSupport.dll
 D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\obj\Debug\ApiSupport.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ApiSupport\obj\Debug\ApiSupport.csprojResolveAssemblyReference.cache
