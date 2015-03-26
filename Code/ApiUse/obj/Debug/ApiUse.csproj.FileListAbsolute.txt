@@ -1,0 +1,15 @@
+D:\Research\OwinAuthorizationServersDemo\ApiUse\bin\Debug\ApiUse.exe.config
+D:\Research\OwinAuthorizationServersDemo\ApiUse\bin\Debug\ApiUse.exe
+D:\Research\OwinAuthorizationServersDemo\ApiUse\bin\Debug\ApiUse.pdb
+D:\Research\OwinAuthorizationServersDemo\ApiUse\obj\Debug\ApiUse.csprojResolveAssemblyReference.cache
+D:\Research\OwinAuthorizationServersDemo\ApiUse\obj\Debug\ApiUse.exe
+D:\Research\OwinAuthorizationServersDemo\ApiUse\obj\Debug\ApiUse.pdb
+D:\Research\OwinAuthorizationServersDemo\ApiUse\bin\Debug\Newtonsoft.Json.dll
+D:\Research\OwinAuthorizationServersDemo\ApiUse\bin\Debug\Newtonsoft.Json.xml
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\bin\Debug\ApiUse.exe.config
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\obj\Debug\ApiUse.exe
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\obj\Debug\ApiUse.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\bin\Debug\ApiUse.exe
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\bin\Debug\ApiUse.pdb
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\bin\Debug\Newtonsoft.Json.dll
+D:\Research\OwinAuthorizationServersDemo\Code\ApiUse\obj\Debug\ApiUse.csprojResolveAssemblyReference.cache

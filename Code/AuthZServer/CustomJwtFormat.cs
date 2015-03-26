@@ -1,5 +1,4 @@
 ﻿using Microsoft.Owin.Security;
-using Microsoft.Owin.Security.DataHandler.Encoder;
 using System;
 using System.IdentityModel.Tokens;
 using AuthZ.Datalayer;

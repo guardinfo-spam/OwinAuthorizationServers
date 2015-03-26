@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResZServer", "Code\ResZServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateNuGetFeed", "Code\PrivateNuGetFeed\PrivateNuGetFeed.csproj", "{08561B6E-B3BE-4F70-9E73-650EC44182EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiUse", "Code\ApiUse\ApiUse.csproj", "{065605FD-44BA-49EA-9E98-911EE4B1A4AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{08561B6E-B3BE-4F70-9E73-650EC44182EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08561B6E-B3BE-4F70-9E73-650EC44182EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08561B6E-B3BE-4F70-9E73-650EC44182EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065605FD-44BA-49EA-9E98-911EE4B1A4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065605FD-44BA-49EA-9E98-911EE4B1A4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065605FD-44BA-49EA-9E98-911EE4B1A4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065605FD-44BA-49EA-9E98-911EE4B1A4AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
